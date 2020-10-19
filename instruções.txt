@@ -1,0 +1,28 @@
+·  Protótipo de um aplicativo de bate-papo React usando o projeto de desafio de código vinculado acima. Sua tarefa é renderizar uma lista de canais com um indicador de mensagens não lidas e a lista de mensagens em cada canal (nenhum recurso de resposta). Clicar no nome de um canal deve remover o indicador de mensagens não lidas.
+
+
+TAREFAS
+
+- Renderizar lista de canais - ok
+
+
+·  Um modelo de design e arquivos JSON para usar no lugar de uma resposta da API ao vivo são fornecidos para você nos arquivos do projeto.
+
+
+·  Você pode adicionar bibliotecas JavaScript & React de código-fonte aberto por meio do npm, contanto que você forneça uma explicação do motivo pelo qual você usou essa biblioteca específica, seja através de comentários em seu código ou em seu email de resposta.
+
+
+
+Como enviar seu código
+
+
+·  Por favor envie seu código criando um zip/tar do diretório do projeto
+
+
+·  Envie este arquivo para um site de compartilhamento de arquivos, como o Google Drive ou o Dropbox, e inclua o link compartilhável em sua resposta por e-mail.
+
+
+·  Enviar o projeto para um repositório público no Github, Gitlab ou Bitbucket e nos encaminhar a URL.
+
+
+·  O prazo de entrega é até o final do dia 19/10/2020.

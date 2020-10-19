@@ -1,0 +1,34 @@
+:root {
+    --color-background: #ffffff;
+    --color-channel-name: #282b43;
+    --color-text-white: #ffffff;
+    --color-text-gray: #cccccc;
+    --color-message-unread: #FF0000;
+    --color-border: #cccccc;
+    --color-thumb-scroll: #929292;
+    --color-track-scroll: #bdbdbd;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body, #root {
+    height: 100vh;
+}
+
+body {
+    background-color: var(--color-background);
+    font: 300 15px Roboto;
+
+}
+
+
+button, input {
+    outline: 0;
+    border: 0;
+    font-family: Roboto;
+    background-color: transparent;
+}

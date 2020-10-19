@@ -1,0 +1,12 @@
+.header-content {
+    grid-area: CI;
+    border-bottom: 1px solid var(--color-border);
+
+    display: flex;
+    align-items: center;
+    padding-left: 13px;
+}
+
+.header-content h1 {
+    font-size: 20px;
+}

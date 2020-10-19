@@ -1,0 +1,15 @@
+/* CN - CHANNEL NAME 
+   CI - CHANNEL INFO
+   CD - CHANNEL DATA
+*/
+
+.grid {
+    display: grid;
+
+    grid-template-columns: 280px auto;
+    grid-template-rows: 60px auto;
+    grid-template-areas:
+        'CN CI'
+        'CN CD';
+    height: 100vh;
+}
